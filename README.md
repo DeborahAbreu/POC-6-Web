@@ -1,6 +1,7 @@
 # POC 6 - React em Prática
 
-<img width="1030" alt="Captura de Tela 2024-11-25 às 01 02 28" src="https://github.com/user-attachments/assets/274aeb5b-d19b-4a71-bb62-9a4c3b416515">
+![image](https://github.com/user-attachments/assets/710da190-5544-46b5-baf5-b7191259d923)
+
 
 ## 📝 Introdução
 
