@@ -2,6 +2,12 @@
 
 ![image](https://github.com/user-attachments/assets/710da190-5544-46b5-baf5-b7191259d923)
 
+#Alunos:
+
+- Deborah Jamilly de Abreu Souza - 10420342
+- Jean Alex da Silva - 10426728
+- GUilherme Miranda Bertinato -10428223
+- Pedro Carvalho -  10388298
 
 ## 📝 Introdução
 
